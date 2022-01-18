@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Examen_2do_parcial
 {
+    //El programa hecho a continuacion se trata de una heladeria, para contruir un helado necesitamos
+    //varios ingredientes, los cuales son: Crema, Salsa, Fruto; estos helados puede combinarse y forma un nuevo tipo,
+    //Existe 4 tipos de helados: Helado Americano, Dulce, Festin y Tropical.//
     public class Helado
     {
         Crema _crema;

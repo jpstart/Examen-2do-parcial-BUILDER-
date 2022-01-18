@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examen_2do_parcial
 {
+    //Aqui estamos usasndo builder para contruir nuestro helado con los ingredientes basicos//
     public abstract class HeladoBuilder
     {
         protected string _descripcion;

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Examen_2do_parcial
 {
+    //Otro tipo de helado construido usando el Builder
     public class HeladoFestinBuilder : HeladoBuilder
     {
         public HeladoFestinBuilder()

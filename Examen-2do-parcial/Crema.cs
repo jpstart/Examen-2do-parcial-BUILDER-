@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Examen_2do_parcial
 {
+    //El siguiente codigo esta hecho para poner en practica el uso del patron de diseño "BUILDER",
+    //Builder es un patron de tipo Constructor que tiene como proposito separar la construccion de un objeto complejo 
+    //de su representación, de forma que el mismo proceso de construcción puede crear diferentes representaciones//
     public abstract class Crema
     {
         protected string _descripcion;

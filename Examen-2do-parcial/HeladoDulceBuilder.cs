@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Examen_2do_parcial
-{
+{//Construimos un tipo de helado especifico con diferentes ingredientes//
     public class HeladoDulceBuilder : HeladoBuilder
     {
         public HeladoDulceBuilder()

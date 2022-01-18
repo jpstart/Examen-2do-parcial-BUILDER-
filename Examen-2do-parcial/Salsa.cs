@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Examen_2do_parcial
-{
+{//tipos de salsas//
     public abstract class Salsa
     {
         protected string _descripcion;

@@ -7,6 +7,7 @@ namespace Examen_2do_parcial
 {
     public abstract class Fruto
     {
+        //Agregamos Frutos//
         protected string _descripcion;
         public string Descripcion { get { return _descripcion; } }
     }
